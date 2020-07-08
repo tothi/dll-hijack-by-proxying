@@ -1,0 +1,18 @@
+EXPORTS
+GetFileVersionInfoA=version_orig.GetFileVersionInfoA @1
+GetFileVersionInfoByHandle=version_orig.GetFileVersionInfoByHandle @2
+GetFileVersionInfoExA=version_orig.GetFileVersionInfoExA @3
+GetFileVersionInfoExW=version_orig.GetFileVersionInfoExW @4
+GetFileVersionInfoSizeA=version_orig.GetFileVersionInfoSizeA @5
+GetFileVersionInfoSizeExA=version_orig.GetFileVersionInfoSizeExA @6
+GetFileVersionInfoSizeExW=version_orig.GetFileVersionInfoSizeExW @7
+GetFileVersionInfoSizeW=version_orig.GetFileVersionInfoSizeW @8
+GetFileVersionInfoW=version_orig.GetFileVersionInfoW @9
+VerFindFileA=version_orig.VerFindFileA @10
+VerFindFileW=version_orig.VerFindFileW @11
+VerInstallFileA=version_orig.VerInstallFileA @12
+VerInstallFileW=version_orig.VerInstallFileW @13
+VerLanguageNameA=version_orig.VerLanguageNameA @14
+VerLanguageNameW=version_orig.VerLanguageNameW @15
+VerQueryValueA=version_orig.VerQueryValueA @16
+VerQueryValueW=version_orig.VerQueryValueW @17
