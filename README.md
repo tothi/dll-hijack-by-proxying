@@ -140,7 +140,7 @@ redirections by the Python script:
 gen_def.py version_orig.dll > version.def
 ```
 
-Here is (version.c)[./version.c] adding an example `Payload()`
+Here is [version.c](./version.c) adding an example `Payload()`
 launching `calc.exe` to the above template:
 
 ```c
